@@ -15,12 +15,12 @@ body {
 
 /* Page container */
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 20px auto;
   padding: 20px;
   background: #fff;
   border-radius: 8px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  box-shadow: 0 6px 18px rgba(255, 193, 193, 0.06);
 }
 
 /* Header */
@@ -58,9 +58,9 @@ body {
 
 /* Hero Section - SIMPLIFIED */
 .hero {
-  background: linear-gradient(rgba(26, 95, 180, 0.85), rgba(38, 162, 105, 0.8)), url('https://images.unsplash.com/photo-1587854692152-cbe660dbde88?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80');
+  background: linear-gradient(rgba(26, 95, 180, 0.85), rgba(38, 162, 104, 0)), url('../images/download.jpg');
   color: white;
-  padding: 60px 30px;
+  padding: 150px 30px;
   text-align: center;
   border-radius: 10px;
   margin-bottom: 30px;
